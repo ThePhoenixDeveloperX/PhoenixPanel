@@ -6,10 +6,10 @@
 1. Clone the repository or download:
 `git clone https://github.com/ThePhoenixDeveloperX/PhoenixPanel`
 
-2. Step
+2. Step 1 
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
-3. Step
+3. Step 2 
 `apt-get install nodejs git`
 
 3. go to panel directory:
